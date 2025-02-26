@@ -2,14 +2,27 @@ body{
     
 }
 
-.principal {
-  background: #cccccc
+#baner {
+  width: 100%;
+}
+
+  .principal {
+    background: #cccccc;
   padding: 30px;
 }
+
 h1{
     text-align: center;
 }
 
 p{
     text-align: center;
+}
+
+#missao{
+  font-size: 20px;
+}
+
+em strong {
+  color: red;
 }
