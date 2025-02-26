@@ -1,7 +1,11 @@
 body{
-  background:#cccccc ;  
+    
 }
 
+.principal {
+  background: #cccccc
+  padding: 30px;
+}
 h1{
     text-align: center;
 }
